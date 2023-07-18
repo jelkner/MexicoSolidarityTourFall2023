@@ -38,6 +38,6 @@ a stop on this tour. We will send a zoom link and more tour specifics then.
 
 ## Your Tour Planning Committee:
 
-> Betty Forrester 323-605-1920
-> Jeff Elkner, 240-406-2906 (SMS), jelkner@protonmail.com
-> Cameron Barron, 793-307-7396
+| Betty Forrester 323-605-1920
+| Jeff Elkner, 240-406-2906 (SMS), jelkner@protonmail.com
+| Cameron Barron, 793-307-7396
