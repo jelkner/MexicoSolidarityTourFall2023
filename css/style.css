@@ -1,5 +1,6 @@
 body {
     margin: 4vw;
+    font-size: 1.5vw;
 }
 main {
     padding: 4vw;
@@ -21,4 +22,19 @@ a, a:visited {
     text-decoration: none;
     font-weight: bold;
     color: #C92; 
+}
+li {
+  margin-top: 0.5vw;
+}
+pre {
+  margin-left: 2vw;
+  color: #689F38;
+}
+dt {
+  color: #487F18;
+  font-weight: bold;
+  margin-top: 2vw;
+}
+dd {
+  margin-top: 0.5vw;
 }
