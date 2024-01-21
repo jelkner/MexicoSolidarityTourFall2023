@@ -1,4 +1,4 @@
-# Web Documents for Mexico Solidarity Tour Fall 2023
+# Web Documents for Mexico Solidarity Tour Winter 2024
 
 ## Goals
 
@@ -19,8 +19,11 @@ José Luis Granados Ceja
 
 ## When
 
-Mid October to mid November 2023
+February 2024
 
 ## Where
 
-* NYC - October 13 and 14
+
+## URL
+
+[https://jelkner.github.io/MexicoSolidarityTourFall2023/](Mexico Solidarity Project Fall 2023 Tour Resource Links)
