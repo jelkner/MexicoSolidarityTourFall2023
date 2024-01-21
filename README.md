@@ -26,4 +26,4 @@ February 2024
 
 ## URL
 
-[https://jelkner.github.io/MexicoSolidarityTourFall2023/](Mexico Solidarity Project Fall 2023 Tour Resource Links)
+[https://jelkner.github.io/MexicoSolidarityTourFall2023/](Mexico Solidarity Project Winter 2024 Tour Resource Links)
